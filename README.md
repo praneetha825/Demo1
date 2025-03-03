@@ -1,4 +1,4 @@
 # Demo1
 my second repository
 <br>
-Author : Praneetha
+Author : Praneetha(pandu)
